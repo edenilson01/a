@@ -1,0 +1,41 @@
+
+        SISTEMA DE FACTURACION - SISFA   
+- Autor: Edenilson Osnar Dominguez Amarilla
+------------------------------------------------------------------------------
+
+Requerimientos                              
+------------------------------------------------------------------------
+    Para ejecutar SISFA se debe tener instalado Python3, ZODB y Tkinter
+        
+        Para instalar ZODB
+             1. ejecuta el siguiente comando en la terminal:
+              # pip install ZODB
+        
+        Para instalar Tkinter
+            1. ejecuta el siguiente comando en la terminal (Ubuntu 14.04):
+                #sudo apt-get install python-tk
+
+        Para instalar Python3 
+            La mayoría de las distribuciones incluyen alguna versión de Python3 en sus repositorios y basta con ejecutar el gestor de paquetes e instalarlo. Estos son los comandos para instalar Python3 desde algunas de las distribuciones más populares.
+
+        Centos / Redhat /Fedora
+        # yum install python3
+        
+        Debian 9
+        # apt install python3
+        
+        Debian 8 y anteriores
+        # apt-get install python3
+
+        Ubuntu 16.04 y superiores
+        $ sudo apt install python3
+
+        Ubuntu 14.04
+        $ sudo apt-get install python3
+
+
+Para ejecutar
+------------------------------------------------------
+    Para iniciar la Aplicacion debe ejecutar el script app.py
+    Desde la consola linux ingrese el siguiente comando: "python3 app.py"
+
